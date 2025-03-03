@@ -6,4 +6,4 @@
 4. Handling Outliers Using Python
 5. Data Encoding - Nominal Encoding
 6. Label and Ordinal Encoding
-7. Taget Guided Ordinal Encoding
+7. Target Guided Ordinal Encoding
